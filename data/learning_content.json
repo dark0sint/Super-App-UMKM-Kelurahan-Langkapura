@@ -1,0 +1,70 @@
+[
+  {
+    "id": "edu_1",
+    "title": "Cara Menentukan Harga Jual Agar Tidak Rugi",
+    "type": "article",
+    "durationSec": 0,
+    "sizeKb": 15,
+    "summary": "Tips singkat menghitung modal + margin agar harga jual tetap kompetitif dan untung.",
+    "tags": [
+      "keuangan",
+      "pemula"
+    ],
+    "url": "",
+    "createdAt": "2026-09-23T01:16:16.834Z"
+  },
+  {
+    "id": "edu_2",
+    "title": "Video: Foto Produk Pakai HP Biar Menarik",
+    "type": "video",
+    "durationSec": 90,
+    "sizeKb": 8000,
+    "summary": "Trik pencahayaan sederhana untuk foto produk jualan online, hemat kuota (kualitas rendah).",
+    "tags": [
+      "pemasaran",
+      "foto"
+    ],
+    "url": "",
+    "createdAt": "2026-09-23T01:16:16.834Z"
+  },
+  {
+    "id": "edu_3",
+    "title": "Kenapa UMKM Perlu NIB?",
+    "type": "article",
+    "durationSec": 0,
+    "sizeKb": 12,
+    "summary": "Manfaat NIB untuk akses bantuan modal, pelatihan, dan kemudahan izin lain.",
+    "tags": [
+      "perizinan"
+    ],
+    "url": "",
+    "createdAt": "2026-09-23T01:16:16.834Z"
+  },
+  {
+    "id": "edu_4",
+    "title": "Video: Tips Melayani Pelanggan Ramah",
+    "type": "video",
+    "durationSec": 75,
+    "sizeKb": 6500,
+    "summary": "Cara menyapa dan melayani pembeli agar mereka datang lagi.",
+    "tags": [
+      "pemasaran",
+      "pemula"
+    ],
+    "url": "",
+    "createdAt": "2026-09-23T01:16:16.834Z"
+  },
+  {
+    "id": "edu_5",
+    "title": "Mengelola Stok Biar Tidak Kehabisan atau Menumpuk",
+    "type": "article",
+    "durationSec": 0,
+    "sizeKb": 10,
+    "summary": "Prinsip dasar FIFO dan menentukan stok minimum untuk usaha kecil.",
+    "tags": [
+      "operasional"
+    ],
+    "url": "",
+    "createdAt": "2026-09-23T01:16:16.834Z"
+  }
+]
